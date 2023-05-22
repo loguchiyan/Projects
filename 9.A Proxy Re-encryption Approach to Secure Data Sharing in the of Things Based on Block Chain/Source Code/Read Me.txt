@@ -1,0 +1,49 @@
+A  Proxy Re-encryption Approach to Secure Data Sharing in the of  Things Based on BlockChain
+
+
+
+In this project has five Modules:
+ Data Owner
+ Data User
+ TA
+ Proxy Server
+ CSP
+
+Data Owner:
+
+* Register the account with the basic information
+* After authorize user can login the account with correct username and password
+* Upload the file with the encryption format.
+* View user request and Make a request for re-encryption
+* View the status and Re-Encrypted  the key
+* Logout
+
+Data User:
+
+* Register the account with the basic information
+* After authorize user can login the account with correct username and password
+* Profile
+* Send Download request
+* Download file 
+* Logout
+
+TA:
+
+* TA can login the account with the correct Credentials
+* View users and owners authorize them
+* View user Download request and Send the Key
+* Logout
+
+Proxy Server:
+
+* Login the account with the correct username and password
+* View all uploaded files
+* View Re-Encryption request and Send the Responses
+* Graph
+* Logout
+
+CSP:
+* Login the account with the correct username and password
+* View all uploaded files
+* Graph
+* Logout

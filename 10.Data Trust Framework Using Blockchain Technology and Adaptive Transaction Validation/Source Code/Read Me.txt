@@ -1,0 +1,27 @@
+
+
+ Data Trust Framework Using Blockchain Technology and Adaptive Transaction Validation
+
+ In this project has 2 Modules
+  1.User
+  2.Admin
+
+Admin:
+login the account with correct username and password
+Admin can add the products
+Admin can manage the products
+Admin can view new order
+Admin can view all user review rating
+Logout
+
+User:
+Register the newuser
+login the account with correct username and password
+View profile
+View products details and add to cart
+user can buy the product
+View order response
+Logout
+
+Thank you for watching this video by 1crore project
+
