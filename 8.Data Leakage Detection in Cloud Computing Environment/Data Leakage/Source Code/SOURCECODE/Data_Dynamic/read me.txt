@@ -1,0 +1,37 @@
+
+In this Project 4 modules:
+
+Data User:
+ Register: Register their own detail information
+ Login: before login the user authorize the TPA
+ Upload file: Upload the file with encrypted formated, then stored to the cloud server.
+ Manage File: You want delete some file choosen to these option.
+ Auditing file: Auditing the file.
+ View all file
+ Logout
+
+TPA
+ Login (Username TPA and Password TPA)
+ View all user and Authorized them
+ View all Auditing check request then, find the fkey and file name check it the immediately response send to user mail id.
+ mail sent are your file are safe or not safe these message to cloud server 
+
+Logout
+
+
+Cloud
+
+Login(Username and password both are Cloud)
+View user
+View all Upload file
+View all Auditing request file
+Graph
+	1. no of the attributes of authorized and un authoriezed user check it.
+	2. no of the request send to the auditing request.
+Logout.
+
+Attacker:-
+Login
+View all file
+Logout
+

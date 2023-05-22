@@ -1,0 +1,32 @@
+In this project  having three modules:
+1. Data owner
+2. Data User
+3. Cloud Server
+
+
+
+DATA OWNER:
+Register with basic information.
+After  Authorized by cloud server owner can login the page with correct username & password
+Upload the encrypted  file with keyword.
+Dataowner can view and manage file.
+Dataowner can view user requested file and accepted them.
+Logout
+
+
+DATA USER:
+Register with basic information.
+After  Authorized by cloud server user can login the page with correct username & password
+User  can search  file based on keyword and sorting result
+Make requested  to particular data owner. Once accepted the data owner means send to cloud server,  After Cloud will Share the key to user. 
+View key and download the file.
+Logout
+
+
+CLOUD SERVER:
+Login the account with the correct username and Password
+Authorize the owner and user 
+View all owner and user 
+Send Key for User 
+View Graph 
+Logout. 
