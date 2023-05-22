@@ -1,0 +1,40 @@
+EAFS: AN EFFICIENT, ACCURATE, AND FORWARD SECURE SEARCHABLE ENCRYPTION SCHEME SUPPORTING RANGE SEARCH
+In this project has three modules:
+Data Owner
+Data User
+Cloud Server
+
+
+1.Data owner 
+Register the account with the basic information
+After authorize by cloud owner can login the account
+Upload the file with the encrypted format
+View file
+Logout
+
+
+
+	
+2. Data User
+
+Register the account with the basic information
+After authorized by cloud server user can login the account
+Search the file based on the keyword, if the keyword should be matching the file means that files should be shown
+Make a request to cloud
+View key and Download the File. After the file download that should be in decrypted format.
+Logout
+
+
+
+
+
+3. Cloud Server(Admin)
+Login the account with the correct username and Password
+Authorize the owner and user 
+View request for download the file and send the key through user mail id.
+View all files in cloud
+Graph
+Logout
+
+
+Thanks For Watching Video....

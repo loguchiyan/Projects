@@ -1,0 +1,25 @@
+Forward Secure Public Key Message Encryption in Cloud to using QR Code
+
+
+In this project has two modules:
+
+1. Data User
+2. Cloud Server
+
+1. Data User
+Register the account with the basic information
+After authorized user can login the account
+Enter the text what you want to send 
+View splitted text and encrypted text
+Click send and select the person to whom you want to send 
+After Receive new user want to merge the QR 
+Get OTP and Scan QR code
+Logout 
+
+
+2. Cloud Server
+Login the account with the correct username and Password
+Authorize the owner and user 
+View Encrpted Message details 
+Logout
+

@@ -1,0 +1,45 @@
+Dual-Server Public-Key Authenticated Encryption with Keyword Search
+
+
+
+In this project has four Modules:
+Data Owner
+Data user
+Assistant server
+Test Server
+
+
+
+
+
+Data Owner:
+Register the account with the basic information.
+After authorize by AS then login with correct username and password.
+Send file upload request to the As accepted means owner can upload the file with the encrypted format with the file keyword
+Manage the file
+Logout
+
+
+Data User:
+Register the account with the basic information.
+After authorize by AS then login with correct username and password.
+View and Make a request for file download to As.
+Assistant server accepts the request and forward request to ts, the ts accept and share the File Key & Download the file
+Logout
+
+
+Assistant server:
+Login the account with the correct credentials
+View all owner and user can be Authorized both them.
+View owner upload request.
+View user download request, accepted and sent to TS
+View all uploaded file 
+Logout
+
+Test server
+Login the account with correct credentials
+Once the AS accepted owner can upload the file.
+Once the AS accepted  ,then forward to TS accept the request and send the key for Download
+View all uploaded files and downloaded file.
+Graph
+Logout

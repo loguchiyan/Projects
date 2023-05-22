@@ -1,0 +1,38 @@
+
+Similarity Search for Encrypted Images in Secure Cloud Computing Secure Cloud Computing
+
+In this project  having three modules:
+   Data/Image owner
+   Data/Image user
+   Cloud server. 
+
+Data/IMAGE Owner:
+Register the account with basic information.
+Login the Data Owner with correct username and password.
+Owner can request to cloud after the cloud server to send key.
+Upload the image with the encrypted format using the encryption algorithm
+And Manage the file 
+View user request and give response
+Logout
+
+Data/IMAGE User:
+Register the account with basic information.
+Login the Data Owner with correct username and password.
+View all upload  file in cloud and end the request to particular owner 
+View key and download the file
+Logout.
+
+
+Cloud Server:
+Login the account.
+View all owner.
+View all user.
+Owner uploaded request and make request then onlu data owner will upload the file
+view Count of the user request 
+View all downloaded file
+Attribute Details 
+Graph
+Logout
+
+Thanks for watching this video...
+by 1 crore projects.....
