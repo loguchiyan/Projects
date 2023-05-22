@@ -1,0 +1,27 @@
+   Placement Learning Test System for College Students
+
+   In this project has two modules:
+ 
+ Admin
+ User
+
+Admin:
+
+   staff login the account with the correct username and password
+   Add the course details with the MCQ questions
+     View the course detail and manage
+   View user Marks
+    Logout
+  
+User:
+
+   Register the account with the basic information
+   After user can login the account with the correct credentails
+   View the course details and download the  materials
+   User can take the assessment .Once the user finished the test means the mark will be shown.
+   Logout
+
+
+
+Thank you for watching this video by 1 crore project...
+
