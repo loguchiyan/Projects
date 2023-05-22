@@ -1,0 +1,51 @@
+Efficient and Privacy-Preserving Similarity Range Query over
+ Encrypted Time Series Data
+
+
+
+
+In this project having four modules:
+Data Owner
+Users
+Cloud Server 1
+Cloud Server 2
+
+Data owner
+
+Register the account with the basic information
+After Authorize by the cloud server 1 owner can login the account with the correct credentials
+Owner can upload the data with the time to s1 server
+While upload the owner can encrypted the file using the file key
+Manage the file
+Logout
+
+User
+
+Register the account with the basic information
+Authorize by the cloud server 2
+After register user can login the account with the correct credentials
+User can enter the query based on the keyword 
+Make a request for downloading to the server2
+Download the file
+Logout
+
+Cloud server-1
+
+Login the account with the correct credentials
+Authorize the Owner
+View all the uploaded file
+View the time for uploading data
+Graph
+Logout
+
+Cloud server-2
+
+Login the account with the correct credentials
+Authorize the user
+Server 2 is responsible for the sharing key
+Send the key for uploading to the particular owner
+Send the key for downloading to the particular user
+View the time for uploading and the downloading data
+Graph
+Logout
+
