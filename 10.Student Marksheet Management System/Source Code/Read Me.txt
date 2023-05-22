@@ -1,0 +1,29 @@
+   Student Marksheet Managment Sysem
+
+In this Project has two modules:
+    Admin
+    Student
+
+
+Admin
+ Login the accout with the correct username and password\
+ Add the student details
+ There is three button
+ Semester 1  Semester2 and  Semester 3 
+ Admin can add the semester mark with the student register no and name
+ For Each semester: 5 subjects 2 lab 
+ View all marks
+ Logout
+
+
+Student:
+    Login the account with the correct credentials
+    Student can view all the three semester mark details
+    LIke subject, mark, Pass/fail 
+    Logout
+
+
+
+
+
+

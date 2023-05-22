@@ -1,0 +1,10 @@
+ Music Player Website
+
+Only one module:
+ Login the account with the username and password
+ View a songs by music directors
+ User can search the song based on keyword,add the library.
+ View the songs in that play pause resume,like, new playlist everything will be shown
+ Logout
+
+

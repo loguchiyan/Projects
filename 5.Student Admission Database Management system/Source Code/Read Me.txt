@@ -1,0 +1,34 @@
+Student Admission Database 
+
+In this project has two modules:
+ Admin
+ User
+
+
+Admin:
+  Admin can login the account with correct credentails
+  View all the users details with the unqiue id
+  View Personal details
+  View all academic details
+  Add all the fees details  like Bus, college ,admission, lab etc.
+  Logout
+
+
+
+User:
+   User can register with the basic information
+   After register user can login the account with the correct credentails
+   Enter the personal details and the family background 
+   Enter the All previous academic details and the marksheets
+    View all the fees details 
+   logout
+
+Note:
+ This is only for one department.
+
+
+
+
+
+
+              

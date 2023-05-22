@@ -1,0 +1,20 @@
+E-Ration With QR Code Security
+
+In This project ,we have two modules
+
+1)Admin
+2)User
+
+First step:
+
+Admin login->Upload stock items(upload all details about stock)->View Uploaded stocks(if need update stock details)->View registered details(user details)->Logout
+
+Second Step:
+
+User register(user register their own details)->user login->View available stocks(if we need buy)->View notification->Logout
+
+Third step:
+
+Admin login->View request and send Notification->Logout
+
+Thanks for watching.....
