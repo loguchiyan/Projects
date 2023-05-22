@@ -1,0 +1,41 @@
+A Verifiable and Fair Attribute-based Proxy Re-encryption Scheme for Data Sharing in Clouds
+
+In this project has four Modules:
+ Owner
+ User
+ Authority
+ Cloud
+
+Owner:
+
+* Register the account with the basic information
+* After authorize user can login the account with correct username and password
+* Upload the file with the encryption format using the ABE –CR algorithm
+* View user request and Make a request for re-encryption
+* View the status and Re-Encrypted  the key
+* Logout
+
+User:
+
+* Register the account with the basic information
+* After authorize user can login the account with correct username and password
+* Profile
+* Send Download request
+* Download file 
+* Logout
+
+Authority
+
+* Authority can login the account with the correct Credentials
+* View users and owners authorize them
+* View user Download request and Send the Key
+* Logout
+
+ Cloud:
+
+* Login the account with the correct username and password
+* View all uploaded files
+* View Re-Encryption request and Send the Responses
+* View all downloaded files
+* Graph
+* Logout
