@@ -1,0 +1,23 @@
+In this project we have two module
+1. Admin
+2.User
+
+
+1.Admin- Login 
+view all users and authorize
+view friend request and response
+view all users details based on  (Scientist, Engineer, Doctor) blockchain
+view tweets recommendations
+view all tweets rank in chart
+logout
+
+
+2.User- Register(Scientist, Engineer, Doctor)
+search friend
+view friend request
+view all my friend
+publish tweet if user scientist. the block will add in Scientist block, if user Engineer. the block will add in Engineer block, if user Doctor. the block will add in Doctor block
+view all my tweets
+view all my friends tweets
+view all recommended tweets
+logout

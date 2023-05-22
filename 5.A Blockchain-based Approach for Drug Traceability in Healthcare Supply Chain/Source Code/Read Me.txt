@@ -1,0 +1,30 @@
+
+A Blockchain-based Approach for Drug Traceability in Healthcare Supply Chain
+Admin
+User
+
+
+Admin
+Login the account with correct username and Password
+Add catergory
+Add product
+Manage product and view new order 
+View all purchased drugs
+View Top-K drugs and user review
+Graph 
+Logout
+
+User
+
+Register the account with the basic information
+ login the account with  correct username and password
+User can search drug based on dieases
+View order status
+User can purchase the drugs
+User acn give review and rating
+View top K Drugs
+Logout
+
+
+
+1 CRORE PROJECT

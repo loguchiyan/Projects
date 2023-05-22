@@ -1,0 +1,46 @@
+In this project we have 3 module
+they are,
+1. Cloud Server
+2. Patient Sensor
+3. Doctor
+
+
+
+
+1. Cloud Server
+Login
+Authorize Patient
+Authorize Doctor
+View user request and generate the key for users
+Trace the patient details based on the Diseases Block
+View doctors request and accept.
+Logout
+
+
+
+2. Patient 
+Register
+View Profile
+Send a Hash Value(key) request to cloud
+View the key status and upload the pateint details under the hash value
+View report request  and send key
+View doctor solution like clinical report
+Logout
+
+
+
+3. Doctor
+Login
+View  Profile
+View users request and make a request for report to particular user
+View key reponses
+View patient reoprt and give the solution
+Logout
+
+
+
+
+
+Thankyou for watching this video
+by 
+1CRORE PROJECTS....
