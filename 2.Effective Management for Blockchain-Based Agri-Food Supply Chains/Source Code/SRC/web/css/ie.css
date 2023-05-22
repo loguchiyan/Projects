@@ -1,0 +1,16 @@
+span.tl {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/tl-corner.png', sizingMethod='image');
+}
+span.tr {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/tr-corner.png', sizingMethod='image');
+}
+span.bl {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/bl-corner.png', sizingMethod='image');
+}
+span.br {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/br-corner.png', sizingMethod='image');
+}

@@ -1,0 +1,48 @@
+Blockchain Based Accounts Payable Platform for Goods Trade
+
+In this project we have 3 module,
+1. Seller Block
+2. Buyer Block
+3. Account payable block
+
+
+
+
+1.Seller Block 
+Register with basic information
+After authorize by account payable block seller can login with correct username and password.
+Add mobile Product posts
+Add other Products posts
+View all Mobile Products
+View all Other Products
+View User Request
+Send Hash Key
+View Purchased product 
+List All Reviewed on mobile post
+List All Reviewed on other post
+List all users products searched 
+Graph 
+Logout
+
+
+
+
+2. Buyer Block
+Register and authorize by account payable
+Login 
+Add Account Details 
+Search Mobile Product
+Search Other Product
+View all product
+Buyer Request Status
+View status and Purchase Products
+Logout
+
+
+3.Account Payable Login
+Login with correct username & password
+View all owner & user & authorize them
+View all uploaded product
+View Purchased Product by block chain 
+Graph
+Logout 

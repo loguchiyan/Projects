@@ -1,0 +1,51 @@
+EFFECTIVE MANAGEMENT FOR BLOCKCHAIN- BASED AGRI-FOOD SUPPLY CHAINS
+
+
+In this project has five modules:
+1. Farmer
+2. Processor
+3. Distributed
+4. Retailer
+5. Consumer
+
+
+
+1. Farmer
+Register the account with the basic information
+Login account with the correct username and password
+Farmer can add crop
+Once the processer can buy the product. Farmer can view the hash key value view status 
+Logout
+
+
+2. Processor
+Register the account with the basic information
+Login account with the correct username and password
+Processer can buy the product
+Once the Distributor can buy the product. Processor can view the Hash key value view status 
+Logout
+
+
+3. Distributed
+Register the account with the basic information
+Login account with the correct username and password
+Distributor can buy the product
+Once the Retailer can buy the product. Distributor can view the Hash key value view status 
+Logout
+
+
+4. Retailer
+Register the account with the basic information
+Login account with the correct username and password
+Retailer can buy the product
+Once the Consumer can buy the product. Retailer can view the Hash key value view status 
+Logout
+
+
+5. Consumer
+Register the account with the basic information
+Login account with the correct username and password
+Consumer can buy the product
+Once the Consumer can Purchase the product. Consumer can view the Retailer Hash key value view status 
+Logout
+

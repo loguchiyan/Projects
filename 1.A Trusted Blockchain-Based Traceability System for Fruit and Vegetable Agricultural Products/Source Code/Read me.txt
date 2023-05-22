@@ -1,0 +1,32 @@
+ 
+A Trusted Blockchain-Based Traceability System for Fruit and Vegetable Agricultural Products
+
+In this project has three modules:
+ Admin
+ Data owner
+ User
+
+Admin
+  Login the account with correct username and Password
+  Admin can authorize owner and user
+  View all product
+  View all user product
+  Graph
+  Logout
+
+Data owner
+  Register the account with the basic information
+  After authorize by admin owner can login the account
+  Upload the products with encrypt format
+  Block chain:Every uploaded product have hash code and block
+  View all upload product
+  view all purchased user
+  Logout
+
+User
+  Register the account with the basic information
+  After authorize by admin owner can login the account
+  User can search the product based on keyword 
+  User can purchase the product
+  logout
+

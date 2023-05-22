@@ -1,0 +1,21 @@
+
+
+Fake Products dtection using BlockChain Technology
+
+Admin:
+Login the account with the correct username and password
+Add the products with the particular block and generate the QR code
+Manage the products
+View all the reviews and rating
+View fake based on the reviews
+Graph
+Logout
+
+User:
+ Register the account with the basic information
+ Login the accoun with correct username and password
+ View all product in the particular block and give rating and reviews. (For example, if the user gives positive review and   
+rating to the particular products more than three times that is  considered as fake products) 
+ View fake products
+ logout
+
