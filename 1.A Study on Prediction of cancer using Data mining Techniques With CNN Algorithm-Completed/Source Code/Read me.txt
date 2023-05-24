@@ -1,0 +1,24 @@
+A Study on Prediction of cancer using Data mining Techniques With CNN Algorithm
+
+In this project has 2 modules
+
+1.User
+2.Admin
+
+Admin:
+
+Login the account with correct username and password
+Upload cancer related data set
+View all datasets 
+Disease search by id  after click in check over all risk disease
+Add data missing
+Clustering search by id
+Analysis the overall disease 
+logout
+
+User:
+Register the account
+Login the account with correct username and password
+View user profile
+Search by symptoms
+Logout
